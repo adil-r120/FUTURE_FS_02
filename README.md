@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lead**
 
-Simply visit the [Lead Project](https://lead.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Lead Project](https://adil-r120.github.io/FUTURE_FS_02/) and start prompting.
 
 Changes made via Lead will be committed automatically to this repo.
 
