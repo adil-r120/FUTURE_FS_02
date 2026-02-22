@@ -1,6 +1,8 @@
 # Welcome to your Lead project
+Live Demo: https://future-fs-02-crm.vercel.app
 
 ## Project info
+This Mini CRM system is designed to help businesses efficiently manage and track client leads generated from contact forms. It allows administrators to update lead status, add notes, and monitor follow-ups in one centralized dashboard. By organizing and streamlining the sales process, the system improves lead conversion rates and overall business productivity.
 
 **URL**: https://adil-r120.github.io/FUTURE_FS_02/
 
