@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lead.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://adil-r120.github.io/FUTURE_FS_02/
 
 ## How can I edit this code?
 
